@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
 <h3 align="center">A computer engineering student at KTH Royal Institute of Technology in Stockholm, currently employed as a full stack developer at Sekando AB</h3>
 
@@ -12,10 +13,14 @@
 <p align="left">
   <h3>Languages</h3>
   <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="55" height="55"/><img src="https://raw.githubusercontent.com/github/explore/d106aa3f6fa091ab80ab5c8cf0d931baff3caaea/topics/elixir/elixir.png" alt="elixir" width="55" height="55" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="55" height="55"/><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/><img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55"/><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/>
+   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="55" height="55">    
+   <img src="https://raw.githubusercontent.com/github/explore/d106aa3f6fa091ab80ab5c8cf0d931baff3caaea/topics/elixir/elixir.png" alt="elixir" width="55" height="55" />
+   <img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="55" height="55"/>
+   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/>
+   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55"/>
+   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
+   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/>
+   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/>
   </p>
   <h3>Frameworks</h3>
   <p align="left">
@@ -33,9 +38,12 @@
   </p>
 <h3>Tools</h3>
 <p align="left">
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="55" height="55"/><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="55" height="55"/></p></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benester&layout=compact&hide=html" alt="benester" /></p>
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="55" height="55"/><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="55" height="55"/>
+<img height="55" width="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+</p></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benester&layout=compact&hide=html" alt="benester" /></p>
+    <h3> Social media </h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/benjamin-gafvelin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjamin-gafvelin" height="30" width="30" /></a>
-<a href="https://instagram.com/benjamingafvelin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="benjamingafvelin" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/benjamin-gafvelin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjamin-gafvelin" height="40" width="40" /></a>
+<a href="https://instagram.com/benjamingafvelin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="benjamingafvelin" height="40" width="40" /></a>
 </p>
