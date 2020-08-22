@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">A computer engineering student at The royal institute of technology in Stockholm, currently employed as a full stack developer at Sekando AB</h3>
+<h3 align="center">A computer engineering student at KTH Royal Institute of Technology in Stockholm, currently employed as a full stack developer at Sekando AB</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benester" alt="benester" /> </p>
 
@@ -16,9 +16,3 @@
 <a href="https://linkedin.com/in/benjamin-gafvelin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjamin-gafvelin" height="30" width="30" /></a>
 <a href="https://instagram.com/benjamingafvelin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="benjamingafvelin" height="30" width="30" /></a>
 </p>
-
-
-
-
-
-
