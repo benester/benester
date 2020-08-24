@@ -47,7 +47,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="55" height="55"/>
   <img height="55" width="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</p></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benester&layout=compact&hide=html" alt="benester" /></p>
+</p></p>
     <h3> Social media </h3>
 
 <p align="center">
@@ -67,3 +67,5 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="benjamin-gafvelin" height="40" width="40" />
 </a>
 </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benester&layout=compact&hide=html" alt="benester" /></p>
+
