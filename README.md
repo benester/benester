@@ -59,6 +59,10 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="benjamingafvelin" height="40" width="40" />
 </a>
 
+<a href="https://stackoverflow.com/users/14159627" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14159627" height="40" width="40" />
+</a>
+
 <a href="https://soundcloud.com/benjamin-gafvelin" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="benjamin-gafvelin" height="40" width="40" />
 </a>
