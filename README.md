@@ -44,6 +44,15 @@
     <h3> Social media </h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/benjamin-gafvelin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjamin-gafvelin" height="40" width="40" /></a>
-<a href="https://instagram.com/benjamingafvelin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="benjamingafvelin" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/benjamin-gafvelin" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjamin-gafvelin" height="40" width="40" />
+</a>
+  
+<a href="https://instagram.com/benjamingafvelin" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="benjamingafvelin" height="40" width="40" />
+</a>
+
+<a href="https://soundcloud.com/benjamin-gafvelin" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="benjamin-gafvelin" height="40" width="40" />
+</a>
 </p>
