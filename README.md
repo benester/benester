@@ -48,7 +48,7 @@
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="55" height="55"/>
   <img height="55" width="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </p></p>
-    <h3> Social media </h3>
+    <h3 align="center"> Connect with me </h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/benjamin-gafvelin" target="blank">
