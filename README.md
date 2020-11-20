@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benester" alt="benester" /> </p>
 
-- 🌱 I’m currently learning **Ethical hacking, Rust and Mathematical statistics**
+- 🌱 I’m currently learning **Operation systems**
 
 - 👨‍💻 All of my projects are available at _Comming soon!_
 
