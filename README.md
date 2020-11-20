@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benester" alt="benester" /> </p>
 
-- 🌱 I’m currently learning **Operation systems**
+- 🌱 I’m currently learning **Operating systems**
 
 - 👨‍💻 All of my projects are available at _Comming soon!_
 
