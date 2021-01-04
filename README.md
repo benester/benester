@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">A computer engineering student at KTH Royal Institute of Technology in Stockholm, currently employed as a full stack developer at Sekando AB</h3>
+<h3 align="center">A computer engineering student at KTH Royal Institute of Technology in Stockholm</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benester" alt="benester" /> </p>
 
