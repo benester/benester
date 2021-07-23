@@ -1,14 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">A computer engineering student at KTH Royal Institute of Technology in Stockholm</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benester" alt="benester" /> </p>
 
-- 🌱 I’m currently learning **Operating systems**
-
 - 👨‍💻 All of my projects are available at _Comming soon!_
-
-- 📫 How to reach me **benji50683@gmail.com**
 
 <p align="left">
   <h3>Languages</h3>
